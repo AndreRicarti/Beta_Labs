@@ -1,0 +1,71 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+#container{
+    width: 1200px;
+    height: 100%;
+}
+.logoTipo{
+    max-width: 400px;
+    margin-top: 24px;
+    padding: 16px;
+}
+.logoTipo img{
+    margin-left: 70px;
+}
+#seguraFormulario{
+    width: 600px;
+    height: 600px;
+    background-color: #26B1AA;
+}
+.form-signin{
+    max-width: 400px;
+    background-color: #f4f4f4;
+    padding: 16px;
+}
+.campo-largo{
+    width: 98.9%;
+    padding: 4px;
+}
+.campo-normal{
+    width: 192px;
+    padding: 4px;
+}
+.campo-pequeno{
+    width: 89px;
+    padding: 4px;
+}
+.botao{
+    width: 100%;
+    padding: 4px;
+    color: #0088cc;
+    height: 40px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    
+}
+input{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+label{
+    color: #0088cc;
+    padding-top:5px;
+}
+form p{
+    text-align: center;
+    margin-top: 5px;
+    font-family: verdana;
+}
+form a{
+    color: #0088cc;
+    text-decoration: none;
+}
+.botao:hover{
+    background-color: #407EC1;
+    color: white;
+}
